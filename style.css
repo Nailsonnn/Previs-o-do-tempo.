@@ -1,0 +1,40 @@
+@import url('https://colorhunt.co/palette/00ffd131c6d4ffff00ff1e1e');
+
+body
+{
+    background-image: url("https://vsegda-pomnim.com/uploads/posts/2022-02/1645831360_42-vsegda-pomnim-com-p-serie-oblaka-foto-43.jpg");   
+}
+
+
+
+    {font-family: 'Arvo, serif'
+}
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 20px;
+}
+
+.container-temp{
+    background-image: url("https://cdn.pixabay.com/photo/2018/02/14/07/48/nature-3152282__480.jpg");
+    display: flex;
+    justify-content: center;
+    background-color: #B2EBF2  ;
+    box-shadow: 200px 100px rgba#000e0e
+    cursor: pointer;
+
+    font-size: 100px;
+    font-weight: 800px;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 32px;
+}
